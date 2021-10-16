@@ -1,0 +1,51 @@
+html {
+    font-family: 'Roboto', sans-serif;
+    background-color: #3FBFB8;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0px 20px 20px 20px;
+    border: 5px solid purple;
+  }
+
+h1 {
+    color: #3FBFB8;
+    margin: 0;
+    padding: 20px 0;
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 3px 3px 1px purple;
+  }
+
+p, li {
+    font-size: 21px;
+    line-height: 1.5;
+    letter-spacing: 1px;
+  }
+
+img {
+    width: 550px;
+    display: block;
+    margin: 0 auto;
+  }
+
+button{
+      color: purple;
+      background-color: #3FBFB8 ;
+  }
+
+a{
+      text-decoration: none;
+} 
+
+a:visited{
+    color: #3FBFB8;
+}
+
+a:hover{
+    color: black;
+}
+
